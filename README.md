@@ -1,159 +1,157 @@
-# 👨‍💻 ABHISHEK YADAV | THE DEVELOPER SERIES
+# 🎬 ABHISHEK — THE SERIES
 
-### Turning ideas into code, one project at a time.
+<h3 align="center">Turning Ideas Into Code, One Project at a Time.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Portfolio-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE%20IN%20DEVELOPMENT-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REACT-TYPESCRIPT-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎬 ABOUT ME
+## 🍿 THE STORY BEGINS
 
-Hello! I'm **Abhishek Yadav**, a BCA student and aspiring Software Engineer passionate about programming, web development, and building practical software solutions.
+Welcome to **Abhishek — The Series**, my personal developer portfolio.
 
-I enjoy transforming ideas into functional applications and continuously improving my technical skills through hands-on projects.
+This project is designed as a cinematic, interactive experience inspired by modern streaming platforms. Instead of presenting a traditional portfolio, it showcases my programming journey, technical skills, projects, and achievements through a creative interface.
 
-- 🎓 Background: Bachelor of Computer Applications (BCA)
-- 💻 Interested in: Software Engineering and Full-Stack Development
-- 🌱 Currently improving my skills in Java, React, TypeScript, Python, and databases.
-- 🚀 Learning by building real-world projects.
-- 🎯 Goal: To begin my professional journey as a Software Developer.
+The goal is simple: combine creativity, technology, and storytelling in one website.
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+## 🎥 PREVIEW
 
-### Programming Languages
-- Java
-- Python
-- C
-- C++
-
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React
-- TypeScript
-- Bootstrap
-
-### Backend & Database
-- Java Servlets
-- JSP
-- JDBC
-- MySQL
-
-### Tools & Platforms
-- Git & GitHub
-- Visual Studio Code
-- Eclipse IDE
-- Apache Tomcat
-- AWS Fundamentals
-- Amazon S3
-- AWS CodeBuild
+<p align="center">
+  <img src="src/assets/hero.png" alt="Portfolio hero visual" width="85%" />
+</p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## ✨ FEATURES
 
-### 01. QuickBus — Bus Ticket Booking System
-
-A web-based bus ticket booking application developed using Java technologies and MySQL.
-
-**Key Features**
-- User registration and login
-- Search and view available buses
-- Bus ticket booking
-- View booking history
-- Ticket cancellation
-- Admin bus management
-
-**Technology Stack:** Java, Servlets, JSP, JDBC, MySQL, HTML, CSS, Bootstrap, Apache Tomcat.
-
-### 02. AWS Hello World — Static Website Deployment
-
-A beginner cloud deployment project demonstrating how to host a static website using AWS services.
-
-**Key Features**
-- HTML website development
-- GitHub source-code management
-- AWS CodeBuild integration
-- Amazon S3 static website hosting
-
-**Technology Stack:** HTML, Git, GitHub, AWS CodeBuild, Amazon S3.
-
-**Source Code:** [Hello World Website](https://github.com/Abhiydv17/hello-world-website)
-
-### 03. Quantium — Data Analytics Job Simulation
-
-Completed the Quantium Data Analytics Job Simulation through Forage.
-
-This simulation provided practical exposure to data analytics tasks and analytical problem-solving.
-
-**Program:** Quantium Data Analytics Job Simulation
-
-**Credential:** [View Simulation](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
-
-### 04. Abhishek — The Series
-
-My personal cinematic developer portfolio, designed to present my projects, technical skills, learning journey, and achievements through an interactive experience.
-
-**Technology Stack:** React, TypeScript, Vite, Framer Motion, GSAP, Lenis, CSS.
-
-**Source Code:** [Abhishek Portfolio](https://github.com/Abhiydv17/Abhishek-portfolio)
+- 🎬 Cinematic introduction and animated experience
+- 👤 Interactive profile selection
+- 🌌 Dark visual atmosphere with red highlights
+- 🚀 Animated project showcase
+- 💻 Technical skills section
+- 📖 Developer journey and introduction
+- 🏆 Achievements and learning highlights
+- 📱 Responsive design for different screen sizes
+- ⚡ Smooth scrolling and interactive animations
 
 ---
 
-## 🎓 EDUCATION
+## 🛠️ TECHNOLOGY STACK
 
-**Bachelor of Computer Applications (BCA)**
-
-Currently pursuing my journey in computer applications, programming, software development, and database technologies.
-
----
-
-## 🏆 CERTIFICATIONS & LEARNING
-
-- **Quantium Data Analytics Job Simulation** — Forage
-
-I continuously develop my knowledge through practical assignments, technical projects, and online learning experiences.
-
----
-
-## 📈 MY DEVELOPMENT JOURNEY
-
-My learning approach is simple:
-
-1. Understand the fundamentals.
-2. Practice programming regularly.
-3. Build practical projects.
-4. Learn new technologies.
-5. Improve through debugging and problem-solving.
-
-I believe every project is an opportunity to learn something new.
+| Technology | Purpose |
+|---|---|
+| React | User interface |
+| TypeScript | Type-safe development |
+| Vite | Development and build tooling |
+| Framer Motion | UI animations |
+| GSAP | Advanced animations |
+| Lenis | Smooth scrolling |
+| CSS3 | Styling and responsive design |
+| Lucide React | Interface icons |
 
 ---
 
-## 🤝 CONNECT WITH ME
+## 📂 PROJECT STRUCTURE
+
+```text
+MY PORTFOLIO/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── App.tsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.tsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── vite.config.ts
+```
+
+---
+
+## 🚀 RUN LOCALLY
+
+Want to explore or run this project on your computer?
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Abhiydv17/Abhishek-portfolio.git
+```
+
+### 2. Open the project directory
+
+```bash
+cd Abhishek-portfolio
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in your browser
+
+```text
+http://localhost:5173/
+```
+
+### 6. Create a production build
+
+```bash
+npm run build
+```
+
+---
+
+## 👨‍💻 ABOUT THE DEVELOPER
+
+**Abhishek Yadav**
+
+BCA Student | Aspiring Software Engineer
+
+I'm passionate about programming, software development, and creating practical applications. I enjoy learning new technologies and turning concepts into working projects.
+
+### Other Projects
+
+- [QuickBus — Bus Ticket Booking System](https://github.com/Abhiydv17)
+- [AWS Hello World Website](https://github.com/Abhiydv17/hello-world-website)
+- [Quantium Data Analytics Simulation](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)
+
+---
+
+## 📬 CONNECT
 
 <p align="center">
   <a href="https://github.com/Abhiydv17">
-    <img src="https://img.shields.io/badge/GitHub-Abhiydv17-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my repository!
-  <br/>
   <b>ABHISHEK — THE SERIES</b>
   <br/>
-  Turning ideas into code, one project at a time.
+  Every developer has a story. This is mine.
+  <br/><br/>
+  ⭐ If you like this project, consider giving it a star!
 </p>
